@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shadow-King1
-- 👀 I’m interested in Android Studio, Flutter And Api 
+- 👀 I’m interested in Android , Flutter And Api 
 - 🌱 I’m currently learning Api
 - 💞️ I’m looking to collaborate on Android/Flutter Projects.
 - 📫 How to reach me ...You don't need to reach me...I'll be looking for you !!
